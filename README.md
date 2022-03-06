@@ -10,13 +10,10 @@ Simple
 3.+
 
 4.-
-## Installing (All Linux OS Using This Tool):-
+## Installing Proceces Command
 ```
 git clone https://github.com/SanatNayak/CLICalculator
-```
-```
 cd CLICalculator
-```
-```
+pip3 install -r requirements.txt
 python3 CLICalculator.py
 ```
