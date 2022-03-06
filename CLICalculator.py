@@ -2,13 +2,13 @@ import pyfiglet
 import colorama
 from colorama import Fore, Back, Style
 from pyfiglet import figlet_format
-Banner = figlet_format("             CLI Calculator")
-print(Fore.RED+50*"_")
-print(Fore.RED+50*"_")
+Banner = figlet_format("                     CLI Calculator")
+print(Fore.RED+80*"_")
+print(Fore.RED+80*"_")
 print(Fore.GREEN+Banner)
-print(Fore.RED+50*"_")
-print(Fore.RED+50*"_")
-print("                                                   \033[92mV.2")
+print(Fore.RED+80*"_")
+print(Fore.RED+80*"_")
+print("                                                                          \033[92mV.2")
 print(3*"\n")
 
 def add(x, y):
