@@ -2,7 +2,7 @@ import pyfiglet
 import colorama
 from colorama import Fore, Back, Style
 from pyfiglet import figlet_format
-Banner = figlet_format("                     CLI Calculator")
+Banner = figlet_format("                   CLI Calculator")
 print(Fore.RED+80*"_")
 print(Fore.RED+80*"_")
 print(Fore.GREEN+Banner)
