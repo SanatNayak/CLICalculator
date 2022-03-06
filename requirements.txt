@@ -1,0 +1,2 @@
+pyfiglet>=0.0.post1
+colorama>=0.4.4
